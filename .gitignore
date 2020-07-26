@@ -1,0 +1,8 @@
+.bashrc
+.profile
+.ssh/
+.viminfo
+.wget-hsts
+dockerfile
+scripts/
+snap
